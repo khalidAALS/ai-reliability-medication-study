@@ -1,0 +1,9 @@
+Case,Scenario,AI Output,Actual Outcome,Error Type
+1,Drug A + Drug B interaction,Safe,Dangerous,False Negative
+2,Drug C + Drug D combination,Dangerous,Safe,False Positive
+3,High dosage Drug E,Safe Dose,Overdose,Wrong Dosage
+4,Drug F + Drug G interaction,Safe,Dangerous,False Negative
+5,Low dosage Drug H,High Dose,Safe Dose,Wrong Dosage
+6,Drug I + Drug J interaction,Dangerous,Dangerous,Correct
+7,Standard dosage Drug K,Safe Dose,Safe Dose,Correct
+8,Drug L + Drug M interaction,Safe,Dangerous,False Negative
