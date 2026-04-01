@@ -1,4 +1,8 @@
-**AI realiabilty in Medication Decision Systems**
+**Paper**
+DOI: 10.5281/zenodo.19342171
+zenodo: https://zenodo.org/records/19342172
+
+**AI Realiabilty in Medication Decision Systems**
 
 This repository contains the experimental implementation supporting the paper:
 
@@ -7,6 +11,9 @@ This repository contains the experimental implementation supporting the paper:
 **Overview**
 
 This project demonstrates how diffrent types of AI errors (false negative, false positive, and dosage errors) can lead to significantly diffrent levels of risk in healthcare contexts.
+
+**Results**
+![Error Distribution](figures/error_distribution.png)
 
 **Contents**
 - simulated dataset of medication decision scenarios.
@@ -22,8 +29,9 @@ The results highlight that aggregate performance metrics can obscure high-risk f
 2. Run the notebook:
     analysis.ipynb
 
+**Reproducibilty**
+This repository provides the dataset and notebook used to simualte AI decision-making scenarios and analyse error types.
+
 **Author**
 Khalid Adnan Alsayed
 
-**DOI: 10.5281/zenodo.19342171**
-zenodo: https://zenodo.org/records/19342172
