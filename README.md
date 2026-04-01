@@ -13,7 +13,7 @@ This repository contains the experimental implementation supporting the paper:
 This project demonstrates how diffrent types of AI errors (false negative, false positive, and dosage errors) can lead to significantly diffrent levels of risk in healthcare contexts.
 
 **Results**
-![Error Distribution](figures/error_distribution.png)
+![Error_Distribution](figures/Error_Distribution.png)
 
 **Contents**
 - simulated dataset of medication decision scenarios.
