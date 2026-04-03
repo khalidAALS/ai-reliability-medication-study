@@ -1,6 +1,7 @@
 **Paper**
 DOI: 10.5281/zenodo.19342171
-zenodo: https://zenodo.org/records/19342172
+ArXiv: https://arxiv.org/abs/2604.01449
+Zenodo: https://zenodo.org/records/19342172
 
 **AI Realiabilty in Medication Decision Systems**
 
