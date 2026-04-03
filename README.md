@@ -1,5 +1,5 @@
 **Paper**
-DOI: 10.5281/zenodo.19342171
+(DOI: 10.5281/zenodo.19342171)
 ArXiv: https://arxiv.org/abs/2604.01449
 Zenodo: https://zenodo.org/records/19342172
 
