@@ -33,7 +33,7 @@ The analysis focuses on how different error types contribute to risk, with empha
 
 ### Error Distribution
 
-![Error Distribution](outputs/figures/Error_Distribution.png)
+![Error Distribution](figures/Error_Distribution.png)
 
 The distribution highlights how different error types contribute unevenly to overall system risk.
 
